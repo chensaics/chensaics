@@ -9,7 +9,7 @@ PhD student at University of Malaya
 * 🤝  I'm open to collaborating on AI projects
 <p align="center">
     <a href="https://www.icnma.com" target="_blank">
-    <img src="https://www.icnma.com/wp-content/uploads/2023/05/2023051211175283-e1683890288402.png"  width="20%" height="20%" align="center"/>
+    <img src="https://www.icnma.com/wp-content/uploads/2023/05/2023051211175283-e1683890288402.png"  width="10%" height="10%" align="center"/>
 </p>
 
 ## Skills
