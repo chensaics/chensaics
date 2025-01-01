@@ -39,13 +39,24 @@
 
 ## 📊Badges
 <div style="display: flex; justify-content: space-between;">
-    <a href="http://www.github.com/chensaics">
-        <img src="https://github-readme-stats.vercel.app/api?username=chensaics&count_private=true&show_icons=true&theme=omni&hide_rank=false&PAT_1" alt="chensaics's GitHub stats" />
-    </a>
+    <a href="https://github.com/chensaics">
+    <img src="https://raw.githubusercontent.com/chensaics/chensaics/master/profile-summary-card-output/2077/3-stats.svg" />
+  </a>
     <a href="https://github.com/chensaics">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chensaics&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chensaics&theme=monokai)
+
+[![](https://raw.githubusercontent.com/chensaics/chensaics/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/chensaics)
+
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/chensaics">
+    <img src="https://raw.githubusercontent.com/chensaics/chensaics/master/profile-summary-card-output/2077/4-productive-time.svg" />
+    </a>
+    <a href="https://github.com/chensaics">
+    <img src="https://raw.githubusercontent.com/chensaics/chensaics/master/profile-summary-card-output/2077/2-most-commit-language.svg" />
+  </a>
+</div>
+
 
