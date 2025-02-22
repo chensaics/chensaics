@@ -4,7 +4,9 @@
 
 ### 👨‍🎓*Ph.D. Student*
 
-@ University of Malaya
+@ [University of Malaya](https://www.um.edu.my/)
+
+![alt text](./assets/image.png)
 
 50603 Kuala Lumpur, Malaysia
 🏖️🌴🐒🍜🍛👫💃
@@ -18,6 +20,7 @@
 
 * 🌍  I'm based in HangZhou, ZheJiang, China
 * 📝  See my blog at [icnma.com](http://www.icnma.com)
+* [![Email](https://img.shields.io/badge/Email-1?color=FEFBF6&logo=gmail)](mailto:chensaics@gmail.com)
 
 ## 💡Skills
 
